@@ -205,7 +205,7 @@ body {
   transition: gap 0.2s;
 }
 .section-link:hover { gap: 10px; }
-.lnk-a { color: #2e86c1; }
+.lnk-a { color: #002b49; }
 .lnk-m { color: #2d6a4f; }
 .lnk-e { color: #8b7355; }
 
