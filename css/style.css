@@ -487,9 +487,9 @@ body {
   padding: 52px 56px 40px;
   border-bottom: 1px solid var(--border);
 }
-.seccion-header-analisis { background: linear-gradient(135deg, #e8f2fa 0%, #d4e8f4 100%); }
-.seccion-header-macro     { background: linear-gradient(135deg, #e8f2ea 0%, #d4e8d8 100%); }
-.seccion-header-educacion { background: linear-gradient(135deg, #f5f0e8 0%, #ece4d4 100%); }
+.seccion-header-analisis { background: linear-gradient(135deg, #e8f2fa 0%, #2e86c1 100%); }
+.seccion-header-macro     { background: linear-gradient(135deg, #e8f2ea 0%, #2d6a4f 100%); }
+.seccion-header-educacion { background: linear-gradient(135deg, #f5f0e8 0%, #8b7355 100%); }
 
 .seccion-eyebrow {
   font-size: 11px; text-transform: uppercase;
